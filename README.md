@@ -1,4 +1,4 @@
-# LTSM-Bitcoin
+# LSTM-Bitcoin
 ![](https://img.shields.io/badge/MachineLearning-LSTM-blue.svg)
 
 Building a Recurrent Neural Network with Long Short Term Memory (LSTM) layers to predict the price of Bitcoin that yields prediction results.
